@@ -131,5 +131,3 @@ def test(number_of_times):
         print(rollen_gekozen)
 
 test(99)
-
-print('hello world')
